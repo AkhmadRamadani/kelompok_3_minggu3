@@ -19,3 +19,6 @@ Route::get('/', function () {
 Route::get('/howitworks', function () {
     return view('howitworks');
 });
+Route::get('/about-us', function () {
+    return view('aboutus');
+});
