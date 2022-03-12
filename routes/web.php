@@ -22,3 +22,9 @@ Route::get('/howitworks', function () {
 Route::get('/about-us', function () {
     return view('aboutus');
 });
+Route::get('/pricing', function () {
+    return view('pricing');
+});
+Route::get('/productpage', function () {
+    return view('product');
+});
