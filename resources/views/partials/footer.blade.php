@@ -28,8 +28,8 @@
                               <h2>SELL ON chamb</h2>
                               <ul>
                                  <li><a href="#">Create account</a></li>
-                                 <li><a href="howitworks.html">How it works suppliers</a></li>
-                                 <li><a href="pricing.html">Pricing</a></li>
+                                 <li><a href="/howitworks">How it works suppliers</a></li>
+                                 <li><a href="/pricing">Pricing</a></li>
                                  <li><a href="#">FAQ for Suppliers</a></li>
                               </ul>
                            </div>
@@ -45,7 +45,7 @@
                            <div class="col-sm-4">
                               <h2>COMPANY</h2>
                               <ul>
-                                 <li><a href="about-us.html">About chamb</a></li>
+                                 <li><a href="/about-us">About chamb</a></li>
                                  <li><a href="#">Contact us</a></li>
                                  <li><a href="#">Press</a></li>
                                  <li><a href="#">Careers</a></li>
@@ -87,7 +87,7 @@
             <div class="container">
                <div class="row">
                   <div class="col-md-8">
-                     <p><img width="90" src="images/logo.png" alt="#" style="margin-top: -5px;" /> All Rights Reserved. Company Name © 2018</p>
+                     <p><img width="90" src="assets/images/logo.png" alt="#" style="margin-top: -5px;" /> All Rights Reserved. Company Name © 2018</p>
                   </div>
                   <div class="col-md-4">
                      <ul class="list-inline socials">
@@ -113,7 +113,7 @@
                         </li>
                      </ul>
                      <ul class="right-flag">
-                        <li><a href="#"><img src="images/flag.png" alt="" /> <span>Change</span></a></li>
+                        <li><a href="#"><img src="assets/images/flag.png" alt="" /> <span>Change</span></a></li>
                      </ul>
                   </div>
                </div>

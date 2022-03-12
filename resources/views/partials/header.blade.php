@@ -11,7 +11,7 @@
                         <span class="icon-bar"></span> 
                         <span class="icon-bar"></span> 
                         </button>
-                        <a href="index.html" class="navbar-brand"><img src="images/logo.png" alt="" /></a>
+                        <a href="/" class="navbar-brand"><img src="assets/images/logo.png" alt="" /></a>
                      </div>
                      <form class="navbar-form navbar-left web-sh">
                         <div class="form">
@@ -32,16 +32,16 @@
                         <div class="help-r hidden-xs">
                            <div class="help-box">
                               <ul>
-                                 <li> <a data-toggle="modal" data-target="#myModal" href="#"> <span>Change</span> <img src="images/flag.png" alt="" /> </a> </li>
-                                 <li> <a href="#"><img class="h-i" src="images/help-icon.png" alt="" /> Help </a> </li>
+                                 <li> <a data-toggle="modal" data-target="#myModal" href="#"> <span>Change</span> <img src="assets/images/flag.png" alt="" /> </a> </li>
+                                 <li> <a href="#"><img class="h-i" src="assets/images/help-icon.png" alt="" /> Help </a> </li>
                               </ul>
                            </div>
                         </div>
                         <div class="nav-b hidden-xs">
                            <div class="nav-box">
                               <ul>
-                                 <li><a href="howitworks.html">How it works</a></li>
-                                 <li><a href="about-us.html">Chamb for Business</a></li>
+                                 <li><a href="/howitworks">How it works</a></li>
+                                 <li><a href="/about-us">Chamb for Business</a></li>
                               </ul>
                            </div>
                         </div>

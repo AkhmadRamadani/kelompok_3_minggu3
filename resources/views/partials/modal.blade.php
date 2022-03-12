@@ -8,8 +8,8 @@
                </div>
                <div class="modal-body">
                   <ul>
-                     <li><a href="#"><img src="images/flag-up-1.png" alt="" /> United States</a></li>
-                     <li><a href="#"><img src="images/flag-up-2.png" alt="" /> France </a></li>
+                     <li><a href="#"><img src="assets/images/flag-up-1.png" alt="" /> United States</a></li>
+                     <li><a href="#"><img src="assets/images/flag-up-2.png" alt="" /> France </a></li>
                   </ul>
                </div>
             </div>
